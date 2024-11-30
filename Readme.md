@@ -1,2 +1,2 @@
 # Personal Portfolio
-## Flask and React project.
+## Django and React project.
